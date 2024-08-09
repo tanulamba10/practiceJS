@@ -1,0 +1,8 @@
+1. What is a promise?
+ A Promise is an object that represents the eventual completion or failure of an asynchronous operations.
+
+2. Why is it important?
+ Importance of promise is that
+  -we do not loose the control of the program.
+  -a promise object is immutable and can be send anywhere without worrying about changes.
+  -also it resolves(runs) only once either to success or failure.
